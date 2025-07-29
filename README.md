@@ -75,3 +75,15 @@ Serão avaliados os seguintes pontos:
 1. Crie um fork deste repositório.
 2. Implemente a solução.
 3. Faça commits frequentes e claros.
+
+##  Wireframes
+
+![Wireframe](./assets/1.png)
+![Wireframe](./assets/2.png)
+![Wireframe](./assets/3.png)
+
+## Wireframes Responsivo
+
+![WireframeR](./assets/1R.png)
+![WireframeR](./assets/2R.png)
+![WireframeR](./assets/3R.png)
